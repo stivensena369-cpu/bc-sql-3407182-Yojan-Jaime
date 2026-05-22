@@ -68,7 +68,8 @@ sqlite3 escape_room.db
 
 ## Consultar datos:
 
-SELECT (poner todo o lo que quieras ver de la tabla seleciona, NUNCA usar "SELECT *") FROM rooms;
+SELECT (poner todo o lo que quieras ver de la tabla seleciona, NUNCA usar "SELECT *") es mala practica
+ FROM rooms;
 
 ## Autor
 
